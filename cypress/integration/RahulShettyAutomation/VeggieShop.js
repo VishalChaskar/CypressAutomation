@@ -1,5 +1,6 @@
 describe('My First TestCase',function()
 {
+    //navigate to portal and search product and add to cart tc
 it('navigate to veggieshop',function(){
     cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/")
     cy.get('.search-keyword').type('ca')
