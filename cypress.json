@@ -1,1 +1,6 @@
-{}
+{
+  
+  "testFiles": "**/*.feature"
+ ,"testFiles": "**/*.js"
+    
+}
